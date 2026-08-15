@@ -7,8 +7,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
-<<<<<<< HEAD
 Versión: 2.0 - Nueva arquitectura
-=======
-Versión: 1.1 - Cambio de Diseño
->>>>>>> feature-version-josue
