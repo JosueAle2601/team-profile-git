@@ -1,8 +1,9 @@
 Equipo de Desarrollo
 
 Integrantes:
+
 1. Josué Alejandro Acuña López - 55225040
-2. Pendiente
+2. Juan Esteban Carvajal Galindo - 55825007
 
 Proyecto:
 Aplicación de perfiles del equipo
